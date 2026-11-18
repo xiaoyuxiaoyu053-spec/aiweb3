@@ -1,0 +1,14 @@
+{
+  "name": "deepline-web",
+  "version": "2.5.0",
+  "description": "DeepLine web with additive imports, server-side free API and admin analytics",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
